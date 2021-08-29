@@ -31,7 +31,8 @@ nav a{
 }
 
 .logo a{
-    color: #9b6dff;;
+    color: #493961;
+    font-weight: 600;
 }
 
 li{
@@ -60,11 +61,15 @@ img{
 }
 
 .home_data{
-    margin-top: 10rem;
+    margin-top: 15rem;
 }
 
 .home_img{
     margin-top: 3rem;
+}
+
+.message{
+    margin-bottom: 2rem;
 }
 
 .about{
@@ -101,6 +106,10 @@ img{
 
 .projects_intro{
     text-align: center;
+}
+
+.projects a{
+    text-decoration: none;
 }
 
 .contact{
