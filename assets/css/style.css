@@ -97,6 +97,8 @@ img{
 .subtitle{
     text-align: center;
     color: #705894;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
     /* margin-bottom: 2rem; */
 }
 
