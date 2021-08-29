@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+  }
+
 .flex-container
 {
     display: flex;
@@ -6,7 +10,7 @@
 header{
     padding: 3rem auto;
     border-bottom: 1px solid gray;
-    position: sticky;
+    /* position: fixed; */
 }
 
 .menu ul{
@@ -81,6 +85,7 @@ img{
 
 .subtitle{
     text-align: center;
+    color: #705894;
     /* margin-bottom: 2rem; */
 }
 
