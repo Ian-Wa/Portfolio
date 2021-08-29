@@ -1,0 +1,43 @@
+.flex-container
+{
+    display: flex;
+}
+
+header{
+    padding: 3rem auto;
+    border-bottom: 1px solid gray;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1,h2,p{
+    margin: 0;
+  }
+
+  nav{
+      height: 3rem;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+nav a{
+    text-decoration: none;
+}
+
+li{
+    padding-left: 5rem;
+}
+
+/* .menu{
+    position: absolute;
+    right: 4rem;
+} */
+
+section{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
