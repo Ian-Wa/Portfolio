@@ -76,6 +76,12 @@ img{
     margin-bottom: 2rem;
 }
 
+.name{
+    color: #745b99;
+    font-weight: 800;
+    
+}
+
 .about{
     height: 100vh;
     background-color: #fbf2ff;
