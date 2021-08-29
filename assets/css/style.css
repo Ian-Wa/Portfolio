@@ -97,3 +97,15 @@ img{
 .projects_intro{
     text-align: center;
 }
+
+.contact{
+    background-color: #e8ebff;
+    height: 100vh;
+    padding-bottom: 0;
+    border-radius: 1rem;
+}
+
+.form{
+    padding: 3rem;
+    margin-top: 3rem;
+}
