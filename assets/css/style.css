@@ -9,8 +9,8 @@ html{
 
 header{
     padding: 3rem auto;
-    border-bottom: 1px solid gray;
-    /* position: fixed; */
+    border-bottom: 1px solid rgb(138, 148, 236);
+
 }
 
 .menu ul{
