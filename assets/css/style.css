@@ -6,6 +6,7 @@
 header{
     padding: 3rem auto;
     border-bottom: 1px solid gray;
+    position: sticky;
 }
 
 .menu ul{
@@ -37,7 +38,7 @@ li{
     right: 4rem;
 } */
 
-section{
+.section{
     padding-top: 3rem;
     padding-bottom: 2rem;
 }
@@ -55,4 +56,44 @@ img{
 
 .home_data{
     margin-top: 10rem;
+}
+
+.home_img{
+    margin-top: 3rem;
+}
+
+.about{
+    height: 100vh;
+    background-color: #fbf2ff;
+    border-radius: 1rem;
+    padding-bottom: 0;
+}
+
+.subtitle{
+    text-align: center;
+    /* margin-bottom: 2rem; */
+}
+
+.about_info{
+    /* max-width: 4rem; */
+    margin-left: 5rem;
+    padding-top: 5rem;
+}
+
+.about_data{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    justify-content: space-around;
+}
+/* .about_text{
+    max-width: 500px;
+} */
+
+.projects{
+    height: 100vh;
+}
+
+.projects_intro{
+    text-align: center;
 }
