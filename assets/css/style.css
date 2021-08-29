@@ -144,19 +144,19 @@ img{
     background-color: #9b6dff;
     color: #fff;
     text-align: center;
-    font-weight: var(--font-semi);
+    font-weight: 600;
     padding: 2rem 0;
     
   }
-.footer__title{
+.footer_title{
 font-size: 2rem;
-margin-bottom: var(--mb-4);
+margin-bottom: 2rem;
 }
-.footer__social{
-margin-bottom: var(--mb-4);
+.footer_social{
+margin-bottom: 2rem;
 }
-.footer__icon{
+.footer_icon{
 font-size: 1.5rem;
 color: #fff;
-margin: 0 var(--mb-2)
+margin: 0 1rem;
 }
