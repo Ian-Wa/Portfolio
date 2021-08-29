@@ -149,8 +149,10 @@ img{
     
   }
 .footer_title{
-font-size: 2rem;
+font-size: 2.5rem;
 margin-bottom: 2rem;
+font-family: 'Dancing Script', cursive;
+font-weight: 900;
 }
 .footer_social{
 margin-bottom: 2rem;
